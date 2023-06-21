@@ -1,0 +1,15 @@
+{
+  "port": 3030,
+  "dbUri": "mongodb://127.0.0.1:27017/it_info2",
+  "secret": "MyVeryVerySecretkey",
+  "access_key": "BuAccessuchunMahfiyKalit",
+  "refresh_key": "BuRefreshuchunMahfiyKalit",
+  "access_time": "15m",
+  "refresh_time": "30d",
+  "refresh_ms": 2592000000,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "samandar77turayev@gmail.com",
+  "smtp_password": "fvdlfajhipmxwier",
+  "api_url": "http://localhost:3030"
+}
